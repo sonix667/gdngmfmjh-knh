@@ -42,3 +42,18 @@ liste_text.pack(pady=10)
 listele()
 
 root.mainloop()
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>GitHub Örneği</title>
+<style>
+  body { font-family: Arial; text-align: center; margin-top: 50px; }
+  h1 { color: purple; }
+</style>
+</head>
+<body>
+<h1>Merhaba GitHub!</h1>
+<p>Bu benim ilk basit web sayfam.</p>
+</body>
+</html>
